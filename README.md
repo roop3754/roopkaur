@@ -1,7 +1,6 @@
 # Hi, I'm Roop Kaur 👋
 
-![Profile Image](https://github.com/roop3754/roopkaur/edit/main/profile-image.jpeg)
-
+<img src="profile-image.jpeg" alt="Roop Kaur" width="200">
 ## About Me
 I am a student at **Manitoba Institute of Trades and Technology (MITT)** currently studying in the **Software Developer Program**.  
 I graduated from **Ajanta School in 2024** and I am building my skills in web development and programming.
