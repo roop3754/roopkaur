@@ -1,6 +1,6 @@
 # Hi, I'm Roop Kaur 👋
 
-![Profile Image](https://github.com/roop3754/roopkaur/edit/main/README.png)
+![Profile Image](https://github.com/roop3754/roopkaur/edit/main/profile-image.jpeg)
 
 ## About Me
 I am a student at **Manitoba Institute of Trades and Technology (MITT)** currently studying in the **Software Developer Program**.  
